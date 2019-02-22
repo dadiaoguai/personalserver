@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dadiaoguai/personalserver.git"
+  },
+  "author": "charles liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dadiaoguai/personalserver/issues"
+  },
+  "homepage": "https://github.com/dadiaoguai/personalserver#readme"
+}
